@@ -1,0 +1,31 @@
+#lj
+hostname01,10.11.11.1,Description 1,Additional Data 1,CVE-2013-2094
+hostname02,10.11.11.2,Description 2,Additional Data 2,CVE-2015-1805
+hostname03,10.11.11.3,Description 3,Additional Data 3,CVE-2015-3636
+hostname04,10.11.11.4,Description 4,Additional Data 4,CVE-2013-6282
+hostname05,10.11.11.5,Description 5,Additional Data 5,CVE-2013-2595
+hostname06,10.11.11.6,Description 6,Additional Data 6,CVE-2013-2597
+hostname07,10.11.11.7,Description 7,Additional Data 7,CVE-2013-2596
+hostname08,10.11.11.8,Description 8,Additional Data 8,CVE-2015-1641
+hostname09,10.11.11.9,Description 9,Additional Data 9,CVE-2014-3704
+hostname10,10.11.11.10,Description 10,Additional Data 10,CVE-2015-2545
+hostname11,10.11.11.11,Description 11,Additional Data 11,CVE-2016-0167 CVE-2015-2545
+hostname12,10.11.11.12,Description 5,Additional Data 5,CVE-2013-2595 CVE-2015-2545
+hostname13,10.11.11.13,Description 6,Additional Data 6,CVE-2013-2597 CVE-2015-2545
+hostname14,10.11.11.14,Description 8,Additional Data 8,CVE-2015-1641 CVE-2015-2545
+hostname15,10.11.11.15,Description 9,Additional Data 9,CVE-2014-3704 CVE-2015-2545
+hostname16,10.11.11.16,Description 10,Additional Data 10,CVE-2015-2545
+hostname17,10.11.11.17,Description 2,Additional Data 2,CVE-2015-1805
+hostname18,10.11.11.18,Description 3,Additional Data 3,CVE-2015-3636
+hostname19,10.11.11.19,Description 4,Additional Data 4,CVE-2013-6282
+hostname20,10.11.11.20,Description 10,Additional Data 10,CVE-2015-2545
+hostname21,10.11.11.21,Description 11,Additional Data 11,CVE-2016-0167
+hostname22,10.11.11.22,Description 5,Additional Data 5,CVE-2013-2595
+hostname23,10.11.11.23,Description 6,Additional Data 6,CVE-2013-2597
+hostname24,10.11.11.24,Description 8,Additional Data 8,CVE-2015-1641
+hostname25,10.11.11.25,Description 9,Additional Data 9,CVE-2014-3704
+hostname26,10.11.11.26,Description 1,Additional Data 1,CVE-2013-2094
+hostname27,10.11.11.27,Description 2,Additional Data 2,CVE-2015-1805
+hostname28,10.11.11.28,Description 3,Additional Data 3,CVE-2015-3636
+hostname29,10.11.11.29,Description 8,Additional Data 8,CVE-2015-1641
+hostname30,10.11.11.30,Description 9,Additional Data 9,CVE-2014-3704
